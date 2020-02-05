@@ -1,2 +1,2 @@
-# ibd
-Supplementary data for Metwaly et al. (2020)
+# Supplementary data for Metwaly et al. (2020)
+
